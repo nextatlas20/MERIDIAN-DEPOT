@@ -1,0 +1,6 @@
+item_id,item_name,due_day,grace_days,home_locker
+A-17,Atlas Lamp,12,1,L-1
+B-04,Brass Binoculars,8,0,L-2
+C-22,Canvas Compass,10,2,L-3
+D-09,Deck Drill,15,1,L-4
+E-31,Emergency Sextant,20,0,L-5

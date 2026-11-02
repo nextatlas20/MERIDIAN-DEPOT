@@ -1,0 +1,12 @@
+receipt_id	item_id	returned_day	condition	clerk	locker
+RT-101	A-17	11	OK	Imani	L-1
+RT-102	A-17	13	OK	Lee	L-1
+RT-103	B-04	9	OK	Lee	L-2
+RT-104	C-22	10	DAMAGED	Ruth	L-3
+RT-105	C-22	12	OK	Ruth	L-9
+RT-106	D-09	14	OK	Imani	L-4
+RT-107	D-09	16	DAMAGED	Lee	L-4
+RT-108	E-31	20	OK	Ruth	L-5
+RT-108	A-17	12	OK	Lee	L-1
+BROKEN	LINE
+RT-110	E-31	020	OK	Ruth	L-5
